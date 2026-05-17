@@ -2,7 +2,7 @@
 # 🤖 Sad-MD WhatsApp Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/qbcebp.jpg" width="300">
+  <img src="https://files.catbox.moe/xb82b8.jpg" width="300">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Internet Stabil
 ```bash
 # Clone Repository
 
-git clone https://github.com/Putrazaubdillah/SadMD
+git clone https://github.com/Putrazaubdillah/SadMD.git
 
 # Masuk Folder
 
