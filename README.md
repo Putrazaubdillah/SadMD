@@ -36,7 +36,7 @@ Bot ini memiliki:
 
 ```bash
 index.js
-
+```
 Mengubah file utama dapat menyebabkan bot error atau tidak bisa berjalan.
 
 
@@ -68,6 +68,7 @@ Internet Stabil
 
 📥 Installation
 
+```bash
 # Clone Repository
 
 git clone https://github.com/Putrazaubdillah/SadMD
@@ -83,7 +84,7 @@ npm install
 # Jalankan Bot
 
 npm start
-
+```
 
 ---
 
