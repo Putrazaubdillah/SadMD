@@ -216,12 +216,14 @@ WhatsApp Channel : [Sad-MD Channel](https://whatsapp.com/channel/0029Vb6or7TLo4h
 
 ---
 
-💳 Payment
+💳 Payment Donasi
 
 Payment	Status
 
 DANA	085624768121
+
 QRIS	Tidak tersedia
+
 GOPAY	Tidak tersedia
 
 
